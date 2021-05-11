@@ -1,0 +1,14 @@
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\bin\Debug\netstandard2.0\MY_CALC_1_2.deps.json
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\bin\Debug\netstandard2.0\MY_CALC_1_2.dll
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\bin\Debug\netstandard2.0\ref\MY_CALC_1_2.dll
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\bin\Debug\netstandard2.0\MY_CALC_1_2.pdb
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.csprojAssemblyReference.cache
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.AssemblyInfoInputs.cache
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.AssemblyInfo.cs
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.csproj.CoreCompileInputs.cache
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.dll
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\ref\MY_CALC_1_2.dll
+C:\Users\alejandro\source\repos\MY_CALC_1_2\MY_CALC_1_2\MY_CALC_1_2\obj\Debug\netstandard2.0\MY_CALC_1_2.pdb
